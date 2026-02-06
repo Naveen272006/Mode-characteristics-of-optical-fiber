@@ -65,4 +65,5 @@ The source coupler consists of two base plates:
 
 
 ## Result
+
 The fiber supports **4 Linearly Polarized (LP) modes** at the given parameters.
