@@ -42,6 +42,7 @@ The source coupler consists of two base plates:
 - For \(V = 4.91\), four Linearly Polarized modes propagate through the fiber.  
 
 ---
+
 ## Procedure
 1. Place the optical breadboard on a flat table surface.  
 2. Fix the cylindrical head of the He-Ne laser source onto the breadboard securely.  
@@ -53,8 +54,11 @@ The source coupler consists of two base plates:
 8. Observe the bright laser spot exiting the fiber. Adjust fiber tip height to ~50 mm above the paper sheet.  
 9. View the multimode speckle pattern on the screen. Adjust screws to refine the pattern. Replace with single mode fiber.  
 10. For single mode fiber, observe blur patterns with lobes (two, three, or four) by fine-tuning the coupler screws.  
+
 ---
+
 <img width="618" height="722" alt="image" src="https://github.com/user-attachments/assets/b611cde3-a1f1-4bf4-ac7a-9de89f4b6f53" />
+
 
 ## Observation and Calculation
 
