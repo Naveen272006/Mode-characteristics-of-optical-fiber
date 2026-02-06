@@ -66,7 +66,6 @@ The source coupler consists of two base plates:
 
 <img width="712" height="1280" alt="image" src="https://github.com/user-attachments/assets/9ac7b8ab-5d9d-481e-ac0b-35a04086ea47" />
 
-
 Parameters of given fiber:  
 - Core radius \(A = 4.5 \, \mu m\)  
 - Numerical Aperture \(NA = 0.11\)  
@@ -84,7 +83,6 @@ V = \frac{2 \pi \cdot A \cdot NA}{\lambda} = 4.91
 \]
 
 ---
-
 # Result
 
 The fiber supports **4 Linearly Polarized (LP) modes** at the given parameters.
