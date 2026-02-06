@@ -64,8 +64,7 @@ The source coupler consists of two base plates:
 
 # Observation and Calculation
 
-![WhatsApp Image 2026-02-04 at 10 34 56 AM](https://github.com/user-attachments/assets/0fab56e5-a6db-4877-9dea-89c62268ef5e)
-<img width="628" height="891" alt="image" src="https://github.com/user-attachments/assets/78b841f7-418f-4473-a9e0-69eab6a8d63c" />
+<img width="712" height="1280" alt="image" src="https://github.com/user-attachments/assets/453b3365-f0c3-4fbc-acc5-da44f830f3e6" />
 
 
 # Result
