@@ -1,18 +1,14 @@
 ## Mode-characteristics-of-optical-fiber
 ## AIM
 To study the mode characteristics of fiber optic cable and observe the lower order Linearly Polarized (LP) modes.
-
 ---
-
 ## Equipments Required
 1. LASER Source (633 nm – 1mW)  
 2. Source to Fiber Coupler  
 3. Single Mode Fiber  
 4. Fiber Holding Stand  
 5. Opaque Screen  
-
 ---
-
 ## Theory
 The central spot carries 95% of the intensity for laser beams with Gaussian profile.  
 
