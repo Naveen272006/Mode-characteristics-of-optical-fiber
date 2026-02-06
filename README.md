@@ -1,10 +1,10 @@
-# Mode-characteristics-of-optical-fiber
-# AIM
+## Mode-characteristics-of-optical-fiber
+## AIM
 To study the mode characteristics of fiber optic cable and observe the lower order Linearly Polarized (LP) modes.
 
 ---
 
-# Equipments Required
+## Equipments Required
 1. LASER Source (633 nm – 1mW)  
 2. Source to Fiber Coupler  
 3. Single Mode Fiber  
@@ -13,7 +13,7 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 
 ---
 
-# Theory
+## Theory
 The central spot carries 95% of the intensity for laser beams with Gaussian profile.  
 
 \[
@@ -47,7 +47,7 @@ The source coupler consists of two base plates:
 
 ---
 
-# Procedure
+## Procedure
 1. Place the optical breadboard on a flat table surface.  
 2. Fix the cylindrical head of the He-Ne laser source onto the breadboard securely.  
 3. Mount the laser to the fiber coupler with its base plate oriented toward the laser exit.  
@@ -62,9 +62,10 @@ The source coupler consists of two base plates:
 ---
 <img width="618" height="722" alt="image" src="https://github.com/user-attachments/assets/b611cde3-a1f1-4bf4-ac7a-9de89f4b6f53" />
 
-# Observation and Calculation
+## Observation and Calculation
 
 ![Exp3](https://github.com/user-attachments/assets/eb1ec852-54f2-445c-b11c-c9907292b3c1)
 
-# Result
+
+## Result
 The fiber supports **4 Linearly Polarized (LP) modes** at the given parameters.
